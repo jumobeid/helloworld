@@ -25,7 +25,7 @@ img{
 
    $messages = array(
        "love is stronger than justice",
-       "Men are like wine,some turn to vineger but others improve by age",
+       "beauty is in the eyes of the beholder",
        "Every thing you ever wanted is on the other side of fear"
    );
 
