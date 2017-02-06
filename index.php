@@ -16,7 +16,7 @@ img{
 
   <h1>Jumana Obeid<h1>
 
-  <img src="images/jumana.jpg" alt="jumana"><br>
+  <img src="/images/jumana.jpg" alt="jumana"><br>
 
   <a href="http://www.w3schools.com/html/">Visit this HTML tutorial</a><br>
   <?php
