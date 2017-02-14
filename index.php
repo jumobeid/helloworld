@@ -18,7 +18,7 @@ img{
 
   <img src="/images/jumana.jpg" alt="jumana"><br>
 
-  <a href="http://www.w3schools.com/html/">Visit this HTML tutorial</a><br>
+  <a href="http://www.w3schools.com/html/">Visit this HTML tutorial at W3schools</a><br>
   <?php
 
    //this code is from http://stackoverflow.com/questions/5857033/displaying-random-text
