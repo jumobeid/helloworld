@@ -26,7 +26,8 @@ img{
    $messages = array(
        "love is stronger than justice",
        "beauty is in the eyes of the beholder",
-       "Every thing you ever wanted is on the other side of fear"
+       "Every thing you ever wanted is on the other side of fear",
+       "When there is a well there is a way"
    );
 
    echo $messages[rand(0, count($messages) - 1)];
